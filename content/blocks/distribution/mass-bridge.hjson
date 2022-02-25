@@ -4,7 +4,7 @@ type: MassDriver
 size:1
 hasPower: false
 hasItems: true
-itemCapacity: 10
+itemCapacity: 1
 range: 40
 rotateSpeed: 100
 reloadTime: 15
