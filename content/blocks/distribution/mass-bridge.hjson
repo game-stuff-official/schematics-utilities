@@ -7,7 +7,7 @@ hasItems: true
 itemCapacity: 10
 range: 40
 rotateSpeed: 100
-reloadTime: 5
+reloadTime: 15
 bulletSpeed: 1
 minDistribute: 1
 bullet: bullet
