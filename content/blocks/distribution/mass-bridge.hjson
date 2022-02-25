@@ -10,6 +10,10 @@ rotateSpeed: 100
 reloadTime: 1
 bulletSpeed: 1
 minDistribute: 5
+bullet: bullet
+shootEffect: shootSmall
+shootSound: none
+reciveEffect: mineSmall
 
 requirements: [
   copper/6
