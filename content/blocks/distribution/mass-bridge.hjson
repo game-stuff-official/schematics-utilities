@@ -7,13 +7,13 @@ hasItems: true
 itemCapacity: 10
 range: 40
 rotateSpeed: 100
-reloadTime: 1
+reloadTime: 5
 bulletSpeed: 1
-minDistribute: 5
+minDistribute: 1
 bullet: bullet
-shootEffect: shootSmall
+shootEffect: none
 shootSound: none
-reciveEffect: mineSmall
+reciveEffect: none
 
 requirements: [
   copper/6
