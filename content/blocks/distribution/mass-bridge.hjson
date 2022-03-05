@@ -19,3 +19,6 @@ requirements: [
   copper/6
   lead/6
 ]
+rebuildable: true
+research: bridge-conveyor
+researchCostMultiplier: 100
