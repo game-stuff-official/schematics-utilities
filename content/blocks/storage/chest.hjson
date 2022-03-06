@@ -4,3 +4,7 @@ hasItems: true
 consumesPower: false
 acceptsItems: true
 itemCapacity: 60
+reqierments: [
+  titanium/30
+]
+research: router
