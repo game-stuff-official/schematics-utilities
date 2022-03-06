@@ -3,3 +3,4 @@ name: Chest
 hasItems: true
 consumesPower: false
 acceptsItems: true
+itemCapacity: 60
