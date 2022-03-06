@@ -1,0 +1,5 @@
+type: StorageBlock
+name: Chest
+hasItems: true
+consumesPower: false
+acceptsItems: true
