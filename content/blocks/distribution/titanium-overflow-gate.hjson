@@ -1,0 +1,10 @@
+type: overflowGate
+name: Titanium Overflow Gate
+maxConsecutive: 4
+research: overflowGate
+buildCostMultipier: 3
+requirements: [
+  lead/4
+  copper/6
+  titanium/3
+]
