@@ -1,6 +1,5 @@
 type: overflowGate
 name: Titanium Overflow Gate
-maxConsecutive: 4
 research: overflow-gate
 buildCostMultipier: 3
 requirements: [
