@@ -4,9 +4,9 @@ const overflowGate = extend(Block, "titanium-overflow-gate", {
   buildCostMultiplier: 3,
   maxConsecutive: 4,
   requierments: [
-    lead/4,
-    copper/6,
-    titanium/3
+    'lead'/4,
+    'copper'/6,
+    'titanium'/3
   ]
 });
 
