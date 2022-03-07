@@ -2,6 +2,7 @@ const overflowGate = extend(Block, "titanium-overflow-gate", {
   name: 'Titanium Overflow Gate',
   research: 'overflow-gate',
   buildCostMultiplier: 3,
+  maxConsecutive: 4,
   requierments: [
     lead/4,
     copper/6,
