@@ -1,4 +1,4 @@
-overflowGate.titanium-overflow-gate.maxConsecutive = 4;
+titanium-overflow-gate.maxConsecutive = 4;
 
 
 /*name: Titanium Overflow Gate
