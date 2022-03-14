@@ -10,8 +10,9 @@ rotateSpeed: 100
 reloadTime: 5
 bulletSpeed: 1
 minDistribute: 1
-bullet: bullet
 shootEffect: none
+shake: 0
+screenShake: 0
 shootSound: none
 reciveEffect: none
 
