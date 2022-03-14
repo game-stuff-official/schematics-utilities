@@ -12,9 +12,7 @@ bulletSpeed: 1
 minDistribute: 1
 shootEffect: none
 shake: 0
-screenShake: 0
 shootSound: none
-reciveEffect: none
 
 requirements: [
   copper/6
