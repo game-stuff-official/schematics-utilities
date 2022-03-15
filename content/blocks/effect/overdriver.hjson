@@ -5,8 +5,18 @@ size: 1
 health: 90
 range: 40
 speedBoost: 0.50
+speedBoostPhase: 1.00
+useTime: 300
+phaseRangeBoost: 600
 consumes: {
   power: 2.5
+  items: {
+    items: [
+    silicon/1
+  ]
+  booster: true
+  optional: true
+  }
 }
 requirements: [
   lead/20
