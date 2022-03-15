@@ -4,7 +4,7 @@ type: OverdriveProjector
 size: 1
 health: 90
 range: 40
-speedBoost: 1.0
+speedBoost: 0.25
 consumes: {
   power: 2.5
 }
