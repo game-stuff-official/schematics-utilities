@@ -4,7 +4,7 @@ type: OverdriveProjector
 size: 1
 health: 90
 range: 40
-speedBoost: 0.50
+speedBoost: 0.25
 speedBoostPhase: 1.00
 useTime: 300
 phaseRangeBoost: 40
