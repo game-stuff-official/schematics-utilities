@@ -5,7 +5,7 @@ size: 1
 health: 90
 range: 40
 speedBoost: 1.25
-speedBoostPhase: 2
+speedBoostPhase: 1.50
 useTime: 300
 phaseRangeBoost: 40
 consumes: {
