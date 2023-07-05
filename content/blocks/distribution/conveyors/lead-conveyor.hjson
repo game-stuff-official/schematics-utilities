@@ -1,7 +1,7 @@
 name: Lead Conveyor
 type: ArmoredConveyor
 health: 60
-category: disribution
+category: distribution
 requirements: [
   copper/2
   lead/2
