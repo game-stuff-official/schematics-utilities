@@ -1,3 +1,4 @@
+name: Medium Solar Panel
 type: SolarGenerator
 size:2
 powerProduction: 30
