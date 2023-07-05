@@ -1,7 +1,7 @@
 name: Medium Solar Panel
 type: SolarGenerator
 size:2
-powerProduction: 30
+powerProduction: 0.5
 health: 160
 requirements: [
   lead/45
