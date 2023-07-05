@@ -1,0 +1,19 @@
+name: Mend Dome
+description: A very powerful healing block. Optionally uses phase fabric and silicon to boost.
+type: MendProjector
+size: 3
+health: 720
+range: 400
+reload: 250
+
+consumes: {
+  power: 2.5
+}
+requirements: [
+  lead/250
+  silicon/100
+  titanium/60
+  phase-fabric/20
+]
+research: overdriveProjector
+category: effect
