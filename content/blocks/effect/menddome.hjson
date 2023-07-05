@@ -5,7 +5,7 @@ size: 3
 health: 720
 range: 400
 reload: 250
-healPercent: 15
+healPercent: 25
 consumes: {
   power: 2.5
 }
