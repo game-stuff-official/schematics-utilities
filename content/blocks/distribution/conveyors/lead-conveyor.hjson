@@ -1,0 +1,10 @@
+name: Lead Conveyor
+type: ArmoredConveyor
+health: 60
+requirements: [
+  copper/2
+  lead/2
+]
+speed: 0.03
+displayedSpeed: 4.2
+research: conveyor
