@@ -2,5 +2,5 @@ name: "Scematics Utilities"
 displayName: "Scematic Utilities"
 author: "Gamestuff"
 description: "Adds useful scematics utilities"
-version: 0.3
+version: 0.4
 minGameVersion: 136
