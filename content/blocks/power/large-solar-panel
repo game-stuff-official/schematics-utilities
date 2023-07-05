@@ -1,0 +1,9 @@
+type: SolarGenerator
+size:2
+powerProduction: 30
+health: 160
+requirements: [
+  lead/45
+  silicon/65
+  copper/80
+]
