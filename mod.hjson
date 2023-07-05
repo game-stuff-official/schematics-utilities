@@ -1,0 +1,6 @@
+name: "Scematics Utilities"
+displayName: "Scematic Utilities"
+author: "Gamestuff"
+description: "Adds useful scematics utilities"
+version: 1.0
+minGameVersion: 136
