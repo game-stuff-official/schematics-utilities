@@ -3,6 +3,7 @@ type: SolarGenerator
 size:2
 powerProduction: 0.5
 health: 160
+research: solar-panel
 requirements: [
   lead/45
   silicon/65
