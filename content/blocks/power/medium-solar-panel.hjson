@@ -1,6 +1,7 @@
 name: Medium Solar Panel
 type: SolarGenerator
 size:2
+category:power
 powerProduction: 0.5
 health: 160
 research: solar-panel
