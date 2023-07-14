@@ -1,14 +1,19 @@
 name: Swarm
 type: flying
 flying: true
+health: 200
 defaultController: DefenderAI
 circleTarget: True
 hitSize: 5
 speed: 4
 rotateSpeed: 8
 accel: 0.01
+faceTarget: False
 drag:0
 engineOffset: 5
 engineSize: 1
 trailLength: 2
 research: mono
+abilities: [
+  ForceFieldAbility
+]
