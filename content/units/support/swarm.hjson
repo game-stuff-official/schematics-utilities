@@ -8,11 +8,11 @@ defaultController: DefenderAI
 circleTarget: True
 hitSize: 5
 speed: 4
-rotateSpeed: 1
+rotateSpeed: 0.1
 omniMovement: false
 accel: 0.01
 faceTarget: False
-drag:0
+drag:0.01
 engineOffset: 5
 engineSize: 1
 trailLength: 2
