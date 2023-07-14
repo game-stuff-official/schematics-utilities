@@ -1,7 +1,7 @@
 name: Swarm
 type: flying
 flying: true
-defaultController: flyingFollowAi
+defaultController: FlyingFollowAi
 circleTarget: True
 hitSize: 15
 speed: 4
