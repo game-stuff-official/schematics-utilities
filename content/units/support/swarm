@@ -1,0 +1,16 @@
+name: Double
+type: flying
+flying: true
+defaultController: defenderAi
+circleTarget: True
+hitSize: 15
+speed: 4
+rotateSpeed: 8
+accel: 0.1
+mineTier: 3
+mineSpeed: 2.5
+drag:0.05
+engineOffset: 10
+engineSize: 3
+trailLength: 2
+research: mono
