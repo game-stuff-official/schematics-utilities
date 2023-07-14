@@ -1,14 +1,15 @@
 name: Swarm
 description: A cheap dispensible unit that surrounds the player in a sort of sheild.
 type: flying
-controllable: true
+lowAltitude: true
 flying: true
-health: 200
+health: 20
 defaultController: DefenderAI
 circleTarget: True
 hitSize: 5
 speed: 4
-rotateSpeed: 8
+rotateSpeed: 1
+omniMovement: false
 accel: 0.01
 faceTarget: False
 drag:0
@@ -19,5 +20,9 @@ research: mono
 abilities: [
   {
     type: ForceFieldAbility
+    radius: 30
+    max: 100
+    sides: 10
+    regen: 0.05
   }
 ]
