@@ -1,5 +1,7 @@
 name: Swarm
+description: A cheap dispensible unit that surrounds the player in a sort of sheild.
 type: flying
+controllable: true
 flying: true
 health: 200
 defaultController: DefenderAI
@@ -15,5 +17,7 @@ engineSize: 1
 trailLength: 2
 research: mono
 abilities: [
-  ForceFieldAbility
+  {
+    type: ForceFieldAbility
+  }
 ]
