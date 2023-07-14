@@ -3,12 +3,12 @@ type: flying
 flying: true
 defaultController: DefenderAI
 circleTarget: True
-hitSize: 15
+hitSize: 5
 speed: 4
 rotateSpeed: 8
-accel: 0.1
-drag:0.05
-engineOffset: 10
-engineSize: 3
+accel: 0.01
+drag:0
+engineOffset: 5
+engineSize: 1
 trailLength: 2
 research: mono
