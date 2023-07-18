@@ -3,12 +3,12 @@ description: A cheap dispensible unit that surrounds the player in a sort of she
 type: flying
 lowAltitude: true
 flying: true
-health: 20
+health: 100
 defaultController: DefenderAI
 circleTarget: True
 hitSize: 5
 speed: 10
-rotateSpeed: 2
+rotateSpeed: 5
 omniMovement: false
 accel: 0.1
 faceTarget: False
@@ -21,7 +21,7 @@ abilities: [
   {
     type: ForceFieldAbility
     radius: 30
-    max: 100
+    max: 250
     sides: 10
     regen: 0.05
   }
