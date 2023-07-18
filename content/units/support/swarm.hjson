@@ -7,14 +7,14 @@ health: 20
 defaultController: DefenderAI
 circleTarget: True
 hitSize: 5
-speed: 4
-rotateSpeed: 0.5
+speed: 10
+rotateSpeed: 2
 omniMovement: false
-accel: 0.01
+accel: 0.1
 faceTarget: False
-drag:0.01
+drag:0
 engineOffset: 5
-engineSize: 1
+engineSize: 1.5
 trailLength: 2
 research: mono
 abilities: [
