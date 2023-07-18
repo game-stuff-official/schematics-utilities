@@ -2,5 +2,5 @@ name: "schematics-utilities"
 displayName: "Schematic Utilities"
 author: "Gamestuff"
 description: "Adds alternative versions of blocks. Useful for easier schematic creation/early game solutions. /n Contributors, ManuWar73"
-version: 0.4.02
+version: 0.4.03
 minGameVersion: 136
