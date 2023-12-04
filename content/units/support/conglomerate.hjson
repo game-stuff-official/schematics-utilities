@@ -12,7 +12,7 @@ rotateSpeed: 5
 omniMovement: true
 accel: 0.1
 faceTarget: False
-drag:0.2
+drag:0
 engineOffset: 7.5
 engineSize: 3
 trailLength: 2
