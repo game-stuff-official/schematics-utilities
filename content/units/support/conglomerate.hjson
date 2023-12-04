@@ -1,0 +1,34 @@
+name: Conglomerate
+description: A cheap dispensible unit that protects units and heals them creating a sort of regerative sheild.
+type: flying
+lowAltitude: true
+flying: true
+health: 200
+defaultController: DefenderAI
+circleTarget: True
+hitSize: 16
+speed: 10
+rotateSpeed: 20
+omniMovement: true
+accel: 0.1
+faceTarget: False
+drag:0
+engineOffset: 5
+engineSize: 2
+trailLength: 2
+research: swarm
+abilities: [
+  {
+    type: ForceFieldAbility
+    radius: 180
+    max: 500
+    sides: 6
+    regen: 0.2
+  }
+  {
+    type: RepairFieldAbility
+    range: 180
+    reload: 60
+    amount: 5
+  }
+]
