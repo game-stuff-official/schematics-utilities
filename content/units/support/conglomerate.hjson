@@ -13,8 +13,8 @@ omniMovement: true
 accel: 0.1
 faceTarget: False
 drag:0.2
-engineOffset: 10
-engineSize: 2
+engineOffset: 7.5
+engineSize: 3
 trailLength: 2
 research: swarm
 abilities: [
