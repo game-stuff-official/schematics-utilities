@@ -20,14 +20,14 @@ research: swarm
 abilities: [
   {
     type: ForceFieldAbility
-    radius: 180
+    radius: 120
     max: 500
     sides: 6
-    regen: 0.2
+    regen: 0.5
   }
   {
     type: RepairFieldAbility
-    range: 180
+    range: 120
     reload: 120
     amount: 10
   }
