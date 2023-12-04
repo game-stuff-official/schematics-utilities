@@ -8,12 +8,12 @@ defaultController: DefenderAI
 circleTarget: True
 hitSize: 16
 speed: 10
-rotateSpeed: 20
+rotateSpeed: 5
 omniMovement: true
 accel: 0.1
 faceTarget: False
-drag:0
-engineOffset: 5
+drag:0.2
+engineOffset: 10
 engineSize: 2
 trailLength: 2
 research: swarm
@@ -28,7 +28,7 @@ abilities: [
   {
     type: RepairFieldAbility
     range: 180
-    reload: 60
-    amount: 5
+    reload: 120
+    amount: 10
   }
 ]
