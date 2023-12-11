@@ -1,0 +1,16 @@
+name: Power Hub
+description: The third and final iteration of the power node.
+type:PowerNode
+size: 3
+
+laserRange:30
+maxNodes: 20
+
+requirements: [
+  titanium/20
+  lead/40
+  silicon/12
+  phase-fabric/20
+]
+
+research: power-node-large

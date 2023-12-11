@@ -3,7 +3,7 @@ description: A very powerful healing block. Optionally uses phase fabric and sil
 type: MendProjector
 size: 3
 health: 720
-range: 400
+range: 200
 reload: 250
 healPercent: 25
 consumes: {
@@ -15,5 +15,5 @@ requirements: [
   titanium/60
   phase-fabric/20
 ]
-research: overdriveProjector
+research: overdrive-projector
 category: effect
