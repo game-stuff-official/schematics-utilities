@@ -1,0 +1,8 @@
+type:
+health:
+category: units
+
+moveTime: 60
+moveForce: 135
+
+payloadLimit: 2
