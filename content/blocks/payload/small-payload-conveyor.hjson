@@ -13,3 +13,5 @@ requirements: [
   copper/5
   graphite/5
 ]
+
+research: payload-conveyor
