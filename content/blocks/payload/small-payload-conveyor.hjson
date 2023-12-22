@@ -1,8 +1,14 @@
-type:
-health:
+type: PayloadConveyor
+health: 160
 category: units
+size: 2
+description: "Moves medium payloads, such as units from factories. Magnetic. Useable in zero-G environments.
 
 moveTime: 60
 moveForce: 135
-
 payloadLimit: 2
+
+requirements: [
+  copper/5
+  graphite/5
+]
