@@ -7,7 +7,7 @@ description: "Moves small payloads, such as units from factories. Magnetic. Usea
 
 moveTime: 15
 moveForce: 135
-payloadLimit: 1
+payloadLimit: 1.5
 
 requirements: [
   copper/3
