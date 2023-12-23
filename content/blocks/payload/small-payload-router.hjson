@@ -1,5 +1,5 @@
 name: Small Payload Router
-type: PayloadConveyor
+type: PayloadRouter
 health: 160
 category: units
 size: 2
