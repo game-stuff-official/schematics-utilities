@@ -13,7 +13,7 @@ requirements: [
   copper/50
   graphite/50
   titanium/80
-  silcon/30
+  silicon/30
 ]
 
 research: payload-conveyor
