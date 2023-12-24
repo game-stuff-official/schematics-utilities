@@ -3,7 +3,7 @@ type: PayloadRouter
 health: 160
 category: units
 size: 2
-description: Splits medium input payloads into 3 output directions. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments."
+description: Splits medium input payloads into 3 output directions. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments.
 
 moveTime: 30
 moveForce: 135
