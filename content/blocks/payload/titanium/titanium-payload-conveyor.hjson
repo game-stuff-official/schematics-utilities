@@ -5,7 +5,7 @@ category: units
 size: 3
 description: "Moves large payloads quickly, such as units from factories. Magnetic. Useable in zero-G environments."
 
-moveTime: 90
+moveTime: 22.5
 moveForce: 135
 payloadLimit: 4
 

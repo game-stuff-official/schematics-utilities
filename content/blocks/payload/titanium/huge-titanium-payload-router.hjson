@@ -1,11 +1,11 @@
-name: Huge Payload Router
+name: Huge Titanium Payload Router
 type: PayloadRouter
 health: 1000
 category: units
 size: 5
-description: "Splits huge input payloads into 3 output directions. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments."
+description: "Quickly splits gigantic input payloads into 3 output directions. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments."
 
-moveTime: 75
+moveTime: 37.5
 moveForce: 135
 payloadLimit: 5
 

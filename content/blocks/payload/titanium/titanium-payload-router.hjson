@@ -3,9 +3,9 @@ type: PayloadRouter
 health: 180
 category: units
 size: 3
-description: Splits large input payloads into 3 output directions quickly. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments.
+description: Quickly splits large input payloads into 3 output directions. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments.
 
-moveTime: 90
+moveTime: 22.5
 moveForce: 135
 payloadLimit: 4
 

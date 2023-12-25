@@ -1,13 +1,13 @@
-name: Tiny Payload Conveyor
+name: Tiny Titanium Payload Conveyor
 type: PayloadConveyor
 health: 80
 category: units
 size: 1
-description: "Moves small payloads, such as units from factories. Magnetic. Useable in zero-G environments."
+description: "Quickly moves medium payloads, such as units from factories. Magnetic. Useable in zero-G environments."
 
-moveTime: 15
+moveTime: 7.5
 moveForce: 135
-payloadLimit: 1.5
+payloadLimit: 2
 
 requirements: [
   copper/2

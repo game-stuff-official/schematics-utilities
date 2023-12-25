@@ -1,11 +1,11 @@
-name: Large Payload Conveyor
+name: Large Titanium Payload Conveyor
 type: PayloadConveyor
 health: 640
 category: units
 size: 4
-description: "Moves large payloads, such as units from factories. Magnetic. Useable in zero-G environments."
+description: "Moves huge payloads quickly, such as units from factories. Magnetic. Useable in zero-G environments."
 
-moveTime: 56.25
+moveTime: 28.15
 moveForce: 200
 payloadLimit: 4
 
