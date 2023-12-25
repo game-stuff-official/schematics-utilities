@@ -1,0 +1,17 @@
+name: Large Payload Conveyor
+type: PayloadConveyor
+health: 640
+category: units
+size: 4
+description: "Moves large payloads, such as units from factories. Magnetic. Useable in zero-G environments."
+
+moveTime: 56.25
+moveForce: 200
+payloadLimit: 4
+
+requirements: [
+  copper/18
+  graphite/18
+]
+
+research: payload-conveyor

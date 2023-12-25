@@ -1,0 +1,17 @@
+name: Small Payload Router
+type: PayloadRouter
+health: 160
+category: units
+size: 2
+description: Splits medium input payloads into 3 output directions. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments.
+
+moveTime: 30
+moveForce: 135
+payloadLimit: 2
+
+requirements: [
+  copper/5
+  graphite/7
+]
+
+research: payload-router

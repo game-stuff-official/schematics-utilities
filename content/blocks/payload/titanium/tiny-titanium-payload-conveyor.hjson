@@ -1,0 +1,17 @@
+name: Tiny Payload Conveyor
+type: PayloadConveyor
+health: 80
+category: units
+size: 1
+description: "Moves small payloads, such as units from factories. Magnetic. Useable in zero-G environments."
+
+moveTime: 15
+moveForce: 135
+payloadLimit: 1.5
+
+requirements: [
+  copper/2
+  graphite/2
+]
+
+research: payload-conveyor

@@ -10,9 +10,8 @@ moveForce: 135
 payloadLimit: 5
 
 requirements: [
-  copper/50
-  graphite/80
-  titanium/80
+  copper/27
+  graphite/30
   silicon/30
 ]
 

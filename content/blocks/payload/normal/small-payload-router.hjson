@@ -11,7 +11,7 @@ payloadLimit: 2
 
 requirements: [
   copper/5
-  graphite/10
+  graphite/7
 ]
 
 research: payload-router

@@ -10,9 +10,8 @@ moveForce: 200
 payloadLimit: 4
 
 requirements: [
-  copper/20
-  graphite/20
-  titanium/10
+  copper/18
+  graphite/18
 ]
 
 research: payload-conveyor

@@ -10,8 +10,8 @@ moveForce: 135
 payloadLimit: 1.5
 
 requirements: [
-  copper/3
-  graphite/6
+  copper/2
+  graphite/3
 ]
 
 research: payload-router

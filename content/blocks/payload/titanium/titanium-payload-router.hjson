@@ -1,0 +1,18 @@
+name: Titanium Payload Router
+type: PayloadRouter
+health: 180
+category: units
+size: 3
+description: Splits large input payloads into 3 output directions quickly. Functions as a sorter when a filter is set. Magnetic. Usable in zero-G environments.
+
+moveTime: 90
+moveForce: 135
+payloadLimit: 4
+
+requirements: [
+  copper/20
+  graphite/30
+  titanium/20
+]
+
+research: payload-router
