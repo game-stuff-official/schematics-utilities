@@ -1,0 +1,18 @@
+name: Gigantic Titanium Payload Conveyor
+type: PayloadConveyor
+health: 810
+category: units
+size: 6
+description: "Moves comicaly large payloads quickly, such as units from factories. Magnetic. Useable in zero-G environments."
+
+moveTime: 45
+moveForce: 135
+payloadLimit: 7
+
+requirements: [
+  copper/80
+  graphite/80
+  titanium/100
+]
+
+research: payload-conveyor
