@@ -1,0 +1,10 @@
+name: Tiny Payload Unloader
+description: Unloads items out of 1x1 Payloads.
+type: PayloadUnloader
+maxBlockSize: 1
+size: 1
+hasPower: true
+
+consumePower: 0.222
+
+catergory: units
