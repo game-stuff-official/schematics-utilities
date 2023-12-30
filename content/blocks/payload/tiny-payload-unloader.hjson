@@ -4,6 +4,8 @@ type: PayloadUnloader
 maxBlockSize: 1
 size: 1
 
+hasPower: true
+
 consumes: {
     power: 1
 }
