@@ -5,8 +5,6 @@ maxBlockSize: 1
 size: 1
 hasPower: true
 
-power: 0.222
-
 category: units
 
 requirements: [
