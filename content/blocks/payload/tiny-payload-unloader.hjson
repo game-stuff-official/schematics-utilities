@@ -5,6 +5,12 @@ maxBlockSize: 1
 size: 1
 hasPower: true
 
-consumePower: 0.222
+power: 0.222
 
-catergory: units
+category: units
+
+requirements: [
+  copper/4
+]
+
+research: payload-conveyor
