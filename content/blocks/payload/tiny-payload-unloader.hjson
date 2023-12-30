@@ -4,6 +4,9 @@ type: PayloadUnloader
 maxBlockSize: 1
 size: 1
 
+consumes: {
+    power: 1
+}
 
 category: units
 
