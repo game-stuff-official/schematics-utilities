@@ -1,0 +1,19 @@
+name: Small Payload Loader
+description: Loads items into 2x2 Payloads.
+type: PayloadLoader
+maxBlockSize: 2
+size: 2
+hasPower: true
+
+consumes: {
+    power: 0.8
+}
+
+category: units
+
+requirements: [
+  copper/16
+  graphite/6
+]
+
+research: payload-conveyor
